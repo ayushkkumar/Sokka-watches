@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', 'sans-serif';
+}
+
+body{
+    background-image: url('./imgs/HeroWatch.jpg');
+    background-size: 1540px;
+    background-repeat: no-repeat;
+}
+
+.main-w{
+    padding: 100px 80px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+input{
+    display: block;
+}
+
+input[type=text], input[type=password], input[type=email], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+button {
+  background-color: rgba(0, 0, 0, 1);
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover{
+    background-color: rgba(0, 0, 200, 0.5);
+}
+
+
+
+.form-w {
+  padding: 40px;
+  width: 310px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+.sokka1{
+    font-size: 64px;
+    background:  linear-gradient(45deg, rgba(2,0,36,1) 0%, rgba(121,9,9,1) 100%, rgba(0,212,255,1) 100%);
+    background-clip: text;
+    color: transparent;
+}
+
+.sokka2{
+    font-size: 36px;
+}
+
+.main-right-w{
+    padding: 90px 60px;
+}
+
+.link-w{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+
+.link-w:hover{
+    color: rgba(0, 0, 200, 1);
+}
+
+.independent-w{
+    right: 0;
+    position: absolute;
+    margin: 20px;
+    background-color: rgba(0, 0, 0, 1);
+}
+
+.independent-w-2{
+    color: white;
+    right: 110px;
+    position: absolute;
+    margin: 20px;
+    background-color: rgba(0, 0, 0, 1);
+    padding: 12px 20px;;
+    border-radius: 5px;
+}
+.independent-w:hover{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.headS-1{
+    width: 350px;
+    font-size:x-large;
+}
+
+.headS-2{
+    width: 350px;
+    font-size:large;
+    font-weight: 280;
+}
+
+sup{
+    font-size: 28px;
+}
+
+.sokka3{
+    text-shadow: 4ch;
+}
+
+.headS-1, .headS-2{
+    text-align: right;
+}
+
+.main-left-w{
+    text-align: left;
+}
