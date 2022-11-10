@@ -24,6 +24,15 @@ _The website will run in your default browser automatically after the last step.
 ## Working of the Website
 __The website consists of 4 webpages; Home Page, Login, Create new account, Contact us.__  
 The backend is fully working.  
-The default web page is __Login__ and the Home page cannot be accessed without logging in.
-### Login Webpage
+The default web page is __Login__ and the Home page cannot be accessed without logging in.  
 
+### Login Webpage
+![Login](./README%20PICS/LOGIN.png)
+
+### Create Account Webpage
+![Login](./README%20PICS/CREATE.png)
+
+### Contact Us Webpage
+![Login](./README%20PICS/CONTACT.png)
+
+### Home Webpage
