@@ -30,15 +30,15 @@ The default web page is __Login__ and the Home page cannot be accessed without l
 ![Login](./README%20PICS/LOGIN.png)
 
 ### Create Account Webpage (2/4)
-![Login](./README%20PICS/CREATE.png)
+![CREATE](./README%20PICS/CREATE.png)
 
 ### Contact Us Webpage (3/4)
-![Login](./README%20PICS/CONTACT.png)
+![CONTACT](./README%20PICS/CONTACT.png)
 
 ### Home Webpage (4/4)
 #### Landing Section
-![Login](./README%20PICS/HOME-1.png)
+![HOME-1](./README%20PICS/HOME-1.png)
 #### Start of catalog
-![Login](./README%20PICS/HOME-2.png)
+![HOME-2](./README%20PICS/HOME-2.png)
 #### Catalog
-![Login](./README%20PICS/HOME-3.png)
+![HOME-3](./README%20PICS/HOME-3.png)
