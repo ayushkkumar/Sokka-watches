@@ -37,7 +37,7 @@ The default web page is __Login__ and the Home page cannot be accessed without l
 
 ### Home Webpage (4/4)
 #### Landing Section
-![HOME-1](./README%20PICS/HOME-1.png)
+![HOME-1](./README%20PICS/HOME.png)
 #### Start of catalog
 ![HOME-2](./README%20PICS/HOME-2.png)
 #### Catalog
