@@ -26,13 +26,19 @@ __The website consists of 4 webpages; Home Page, Login, Create new account, Cont
 The backend is fully working.  
 The default web page is __Login__ and the Home page cannot be accessed without logging in.  
 
-### Login Webpage
+### Login Webpage (1/4)
 ![Login](./README%20PICS/LOGIN.png)
 
-### Create Account Webpage
+### Create Account Webpage (2/4)
 ![Login](./README%20PICS/CREATE.png)
 
-### Contact Us Webpage
+### Contact Us Webpage (3/4)
 ![Login](./README%20PICS/CONTACT.png)
 
-### Home Webpage
+### Home Webpage (4/4)
+#### Landing Section
+![Login](./README%20PICS/HOME-1.png)
+#### Start of catalog
+![Login](./README%20PICS/HOME-2.png)
+#### Catalog
+![Login](./README%20PICS/HOME-3.png)
