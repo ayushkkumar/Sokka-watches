@@ -1,5 +1,5 @@
 # Sokko-watches
-A full-stack website assessment for XenonStack
+A full-stack website
 
 ## To run the website...
 1. Download and extract the code.
