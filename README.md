@@ -1,4 +1,4 @@
-# Sokko-watches
+# Sokka-watches
 A full-stack website
 
 ## To run the website...
